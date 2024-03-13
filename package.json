@@ -1,0 +1,14 @@
+{
+    "name": "ryan_nestjs",
+    "version": "1.0.0",
+    "description": "Description de votre projet",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Ryan",
+    "license": "Licence",
+    "dependencies": {
+        "@nestjs/common": "^10.3.3"
+    }
+}
